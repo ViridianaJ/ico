@@ -1,11 +1,17 @@
-body{
-    background: rgb(179,21,241);
-background: linear-gradient(90deg, rgba(179,21,241,0.6699929971988796) 0%, rgba(207,238,252,0.7596288515406162) 64%);
-}
-
+ 
 .centrado{
     text-align: center;;
-    border: 2px solid whitesmoke;
-    
+    border: 2px solid black;
+    padding-left: 1px;
+    padding-right: 1px;
+}
+.fondo1{
+    background: rgb(179,21,241);
+background: linear-gradient(90deg, rgba(179,21,241,0.6699929971988796) 0%, rgba(207,238,252,0.7596288515406162) 64%);
+
+}
+.fondo2{
+    background: rgb(21,241,201);
+background: linear-gradient(90deg, rgba(21,241,201,0.6699929971988796) 0%, rgba(143,203,247,0.756827731092437) 37%, rgba(193,163,248,0.19100140056022408) 52%, rgba(252,207,242,0.7596288515406162) 67%);
 
 }
