@@ -1,0 +1,11 @@
+body{
+    background: rgb(179,21,241);
+background: linear-gradient(90deg, rgba(179,21,241,0.6699929971988796) 0%, rgba(207,238,252,0.7596288515406162) 64%);
+}
+
+.centrado{
+    text-align: center;;
+    border: 2px solid whitesmoke;
+    
+
+}
